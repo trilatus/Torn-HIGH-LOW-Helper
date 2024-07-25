@@ -24,3 +24,7 @@ I'm not a super good programmer, so input is gladly accepted :)
 I'm lazy, so do Ctrl + C to exit the game loop :)
 Also, I've not added exceptions, so if you enter an invalid letter or number, it will just fail, and you will have to restart. 
 I did this quickly during a break, so it's not a solid program—bare minimum.
+
+
+
+#  HOW TO USE IT WILL COME SOON
